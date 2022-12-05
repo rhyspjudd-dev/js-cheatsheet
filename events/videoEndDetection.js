@@ -2,12 +2,12 @@
 document.querySelector('#myVideo').addEventListener('ended',videoEndDetect,false);
 function videoEndDetect(e) {
     // What you want to do after the event
+
+    /// GAHHHHH
 }
 
 /* 
 The HTML
-
-silly message to remove
 
 <video id="myVideo">
 <source src="path/#" type="video/mp4">
