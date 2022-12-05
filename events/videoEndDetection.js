@@ -7,6 +7,8 @@ function videoEndDetect(e) {
 /* 
 The HTML
 
+silly message to remove
+
 <video id="myVideo">
 <source src="path/#" type="video/mp4">
 </video>
