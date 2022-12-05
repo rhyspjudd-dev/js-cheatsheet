@@ -5,7 +5,7 @@ function videoEndDetect(e) {
 }
 
 /* 
-The html 
+The HTML
 
 <video id="myVideo">
 <source src="path/#" type="video/mp4">
