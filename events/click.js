@@ -1,10 +1,11 @@
-// Define el
 const button = document.querySelector('button');
 
-button.addEventListener('click', (event) => {
-    // do something
-});
+button.addEventListener('click', someFunction);
 
-// ORRR
+function someFunction() {
+    // Do something
+}
 
-button.addEventListener('click', someFunction)
+// To run once only 
+button.addEventListener('click', someFunction, { once: true });
+
