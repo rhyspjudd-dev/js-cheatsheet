@@ -7,7 +7,6 @@ const myNewArray = new Array('Some Data 01', 'Some Data 02', 'Some Data 03')
 // Array Length 
 console.log(myArray.length);
 
-
 // Demo - calc ages of values in array
 const calcAge = function(birthYear) {
     return 2022 - birthYear;
