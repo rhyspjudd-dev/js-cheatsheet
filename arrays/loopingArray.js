@@ -25,7 +25,7 @@ for (var i = userArray.length - 1; i >= 0; i--) {
     console.log(userArray[i]);
 }
 
-// Modern way
+// Modern way to loop backwards in array 
 userArray.slice().reverse()
     .forEach(function(arrayItem) {
             console.log(arrayItem);
